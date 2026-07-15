@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.env
+.DS_Store
+knowledge_graph.pkl
